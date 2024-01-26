@@ -6,6 +6,8 @@ replace gitlab.com/yawning/obfs4.git => github.com/jmwample/obfs4 v0.0.0-2023072
 
 replace github.com/pion/dtls/v2 => github.com/mingyech/dtls/v2 v2.0.0
 
+replace github.com/lucas-clemente/quic-go => github.com/Psiphon-Labs/quic-go v0.0.0-20230626192210-73f29effc9da
+
 require (
 	github.com/Psiphon-Inc/rotate-safe-writer v0.0.0-20210303140923-464a7a37606e
 	github.com/Psiphon-Labs/bolt v0.0.0-20200624191537-23cedaef7ad7
